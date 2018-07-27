@@ -1,6 +1,3 @@
-##  my_world - EPITECH Project ##
+my_world
 
 Terraformer in isometric view.
-
-Created by : Baptiste LE NEDIC
-	     Nicolas BERNES
